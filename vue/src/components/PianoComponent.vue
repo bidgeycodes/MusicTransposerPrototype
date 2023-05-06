@@ -29,7 +29,7 @@ body {
 ul {
   height:18.875em;
   width:34em;
-  margin:5em auto;
+  margin:2em auto;
   padding:3em 0 0 3em;
   position:relative;
   border:1px solid #160801;

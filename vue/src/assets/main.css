@@ -40,6 +40,5 @@ a,
 
 #app {
   max-width: 100%;
-  min-height: 100vh;
-  font-weight: normal;
+  max-height: 100vh;
 }
