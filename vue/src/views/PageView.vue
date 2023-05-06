@@ -8,7 +8,7 @@
       <!-- Button Component -->
     </div>
     <div class="piano-container">
-      <PianoComponent />
+      <Piano />
     </div>
     <div class="response-container">
       <!-- Response Component -->
@@ -21,7 +21,7 @@
 
 <script setup lang="ts">
 
-import PianoComponent from "../components/PianoComponent.vue"
+import Piano from "../components/Piano.vue"
 
 </script>
 
