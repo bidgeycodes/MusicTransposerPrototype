@@ -5,7 +5,7 @@
       <h1>Do-Re-Mi-Fa-So-La-Ti-Do</h1>
     </div>
     <div class="button-container">
-      <!-- Button Component -->
+      <SelectedButtons />
     </div>
     <div class="piano-container">
       <Piano />
@@ -14,14 +14,16 @@
       <!-- Response Component -->
     </div>
     <div class="reset-container">
-      <!--Reset Button Component-->
+      <ResetButton />
     </div>
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup>
 
 import Piano from "../components/Piano.vue"
+import ResetButton from "../components/ResetButton.vue"
+import SelectedButtons from "../components/SelectedButtons.vue"
 
 </script>
 
@@ -41,7 +43,7 @@ div {
   width: 100%;
   flex-direction: column;
   align-items: center;
-  justify-content: center !important;
+  justify-content: center;
   display: inline-block;
 }
 
