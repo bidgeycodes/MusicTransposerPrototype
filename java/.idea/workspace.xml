@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f3239c-7104-4919-9369-220317291927" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bree/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/Notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bree/Notes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/view/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bree/view/Console.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techelevator/placeholder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bree/placeholder.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/assets/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/assets/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/components/TheWelcome.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/components/WelcomeItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/components/icons/IconCommunity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/components/icons/IconDocumentation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/components/icons/IconEcosystem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/components/icons/IconSupport.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/components/icons/IconTooling.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/views/HomeView.vue" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,11 +52,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.techelevator" />
