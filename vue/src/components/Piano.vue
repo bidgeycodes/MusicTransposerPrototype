@@ -1,14 +1,14 @@
 <template>
     <ul class="set">
         <li class="white c"></li>
-        <li class="black c#"></li>
-        <li class="white d"></li>
         <li class="black db"></li>
+        <li class="white d"></li>
+        <li class="black eb"></li>
         <li class="white e"></li>
         <li class="white f"></li>
         <li class="black gb"></li>
         <li class="white g"></li>
-        <li class="black ab "></li>
+        <li class="black ab"></li>
         <li class="white a"></li>
         <li class="black bb"></li>
         <li class="white b"></li>
@@ -21,19 +21,12 @@
 * {
   box-sizing: border-box;
 }
-
-body {
-  margin:0;
-  background:#222
-}
-
-ul {
-  height:18.875em;
-  width:35em;
+.set {
+  height: 18.875em;
+  width: 35em;
   margin: 2em auto;
-  padding: 1em 1em 1em 1em;
-  position:relative;
-  border:1px solid #160801;
+  position: relative;
+  box-shadow: 3px 3px 3px 3px;
 }
 
 li {
