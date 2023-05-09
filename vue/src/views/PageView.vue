@@ -11,7 +11,7 @@
       <Piano />
     </div>
     <div class="response-container">
-      <!-- Response Component -->
+      <ResponseComponent />
     </div>
     <div class="reset-container">
       <ResetButton />
@@ -24,6 +24,7 @@
 import Piano from "../components/Piano.vue"
 import ResetButton from "../components/ResetButton.vue"
 import SelectedButtons from "../components/SelectedButtons.vue"
+import ResponseComponent from "../components/ResponseComponent.vue"
 
 </script>
 
@@ -41,10 +42,6 @@ div {
 .title-container > h4, h1 {
   height: auto;
   width: 100%;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  display: inline-block;
 }
 
 h4, h1 {
@@ -52,24 +49,28 @@ h4, h1 {
 }
 
 .button-container {
-  width: 100%;
-  height: 7vh;
+  width: auto;
+  height: auto;
+  display: flex;
 }
 
 .piano-container {
   height: auto;
-  width: 100%;
+  width: auto;
+  display: flex;
+  justify-content: center;
 }
 
 .response-container {
   width: 100%;
-  height: 5vh;
+  height: auto;
 }
 
 .reset-container {
   width: 100%;
   height: 5vh;
+  display: flex;
+  justify-content: center;
 }
-
 
 </style>

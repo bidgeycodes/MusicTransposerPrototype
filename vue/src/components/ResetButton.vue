@@ -1,5 +1,5 @@
 <template>
-    <button @click="resetProperties" class="reset-all">Reset</button>
+    <button @click="resetProperties" class="resetAll">Reset</button>
 </template>
 
 <script>
@@ -19,3 +19,7 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+
+</style>
