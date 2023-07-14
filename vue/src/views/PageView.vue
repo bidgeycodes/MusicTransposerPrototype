@@ -8,7 +8,7 @@
       <SelectedButtons />
     </div>
     <div class="piano-container">
-      <Piano />
+      <PianoComponent />
     </div>
     <div class="response-container">
       <ResponseComponent />
@@ -21,7 +21,7 @@
 
 <script setup>
 
-import Piano from "../components/Piano.vue"
+import PianoComponent from "../components/PianoComponent.vue"
 import ResetButton from "../components/ResetButton.vue"
 import SelectedButtons from "../components/SelectedButtons.vue"
 import ResponseComponent from "../components/ResponseComponent.vue"

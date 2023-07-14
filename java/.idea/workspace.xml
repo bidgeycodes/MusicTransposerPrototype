@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f3239c-7104-4919-9369-220317291927" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/assets/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/assets/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/assets/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/components/TheWelcome.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/components/WelcomeItem.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/components/icons/IconCommunity.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/components/icons/IconDocumentation.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/components/icons/IconEcosystem.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/components/icons/IconSupport.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/components/icons/IconTooling.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/router/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/views/AboutView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/components/Piano.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/components/ResponseComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/components/ResponseComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/src/views/PageView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/views/PageView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +42,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/breemcneil/Code/MusicTransposer/java/pom.xml"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.techelevator" />
