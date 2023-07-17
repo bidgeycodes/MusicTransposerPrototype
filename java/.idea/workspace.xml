@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f3239c-7104-4919-9369-220317291927" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/assets/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/components/Piano.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/components/ResponseComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/components/ResponseComponent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/src/views/PageView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue/src/views/PageView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/breemcneil/Code/MusicTransposer/java/pom.xml"
+    "last_opened_file_path": "/Users/breemcneil/Code/MusicTransposer/java"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -58,13 +55,26 @@
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.bree.Application" />
-      <module name="MusicTransposer" />
+      <module name="Do-Re-Mi-Fa-So-La-Ti-Do" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Do-Re-Mi-Fa-So-La-Ti-Do" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Do-Re-Mi-Fa-So-La-Ti-Do" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
